@@ -20,13 +20,13 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  jdlips
+github_username:  jlips24
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: _ekaj_
-linkedin_username: jekyll
+linkedin_username: jakelipson
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -52,9 +52,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jake and I'm a software engineer. As well as developing software I also have 
-  experience creating web and mobile applications. I've spent most of my professional career in 
-  the startup space which has shown me how to quickly adapt to new challenges.
+  Hi, my name is Jake and I'm a software engineer based out of New York City. I've spent most of 
+  my professional career in the startup space which has taught me how to quickly adapt to new 
+  challenges.
 
   I am most skilled in <mark>Python</mark> development but have worked with many other languages 
   in the past like <mark>Java</mark>, <mark>C++</mark>, <mark>Swift</mark>, and more.
@@ -84,8 +84,24 @@ content:
       - layout: right
         title: Noodle Partners
         sub_title: Software Engineer
-        caption: January 2020 - present)
-        link: https://www.noodle.com/home
+        caption: January 2020 - Present
+        link: https://www.noodle.com/
+        # quote: >
+        #   Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
+        title: Noodle Management Services
+        sub_title: Software Engineer Intern
+        caption: July 2019 - January 2020
+        # quote: >
+        #   Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
+        title: Apple
+        sub_title: Specialist
+        caption: October 2017 - April 2018
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -95,7 +111,7 @@ content:
     content:
       - layout: top-right
         title: Boston University
-        sub_title: BA Computer Science
+        sub_title: Bachelor of Arts, Computer Science
         caption: 2016 - 2019
         # quote: >
         #   Short institution or course description (optional)
