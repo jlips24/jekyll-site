@@ -82,14 +82,18 @@ content:
     layout: list
     content:
       - layout: right
-        title: Noodle Partners
+        title: Noodle
         sub_title: Software Engineer
         caption: January 2020 - Present
         link: https://www.noodle.com/
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Working at Noodle (formerly Noodle Partners) was an eye opening experience into not only
+          EdTech, but also into the startup world. My main role while here was to build, maintain,
+          and implement an ETL library and toolset written in <mark>Python</mark> to move into and
+          between our systems. I also worked on a number of other projects here, including <mark>
+          Django</mark> web applications, <mark>Salesforce</mark> development, and more.
       - layout: right
         title: Noodle Management Services
         sub_title: Software Engineer Intern
@@ -97,11 +101,16 @@ content:
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          After college, I decided to take an internship to gain experience in the industry. My
+          role was much bigger than I had originally anticipated, with projects that spanned
+          multiple companies (Noodle Partners and Noodle Pros), and others that were specific
+          to one company. I quickly learned how to prioritize and manage my time while in this
+          role, as well as hone my skills in <mark>Python</mark> and <mark>SQL</mark>.
       - layout: right
         title: Apple
         sub_title: Specialist
         caption: October 2017 - April 2018
+        link: https://www.apple.com/
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
