@@ -105,7 +105,10 @@ content:
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Working as a specialist at Apple during college helped me learn and grow in many ways
+          like learning how to optomize my workflows, collaborate with coworkers, and more. The
+          most important thing I learned here was how to give thoughtful advice and responses to
+          questions while keeping the question "Who is my audience?" at the front of my mind.
   - title: Education
     layout: list
     content:
